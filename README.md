@@ -1,3 +1,4 @@
+
 # Weekly project
 This project is a sample weekly project.
 I have made it to avoid repetition and practice some new code and functions.
@@ -8,4 +9,5 @@ I have made it to avoid repetition and practice some new code and functions.
 - Loop
 - function
 - operators
+  
 **Author:** Baibhawi Shahi (PEC, batch'29)
